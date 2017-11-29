@@ -1,0 +1,1 @@
+Napisz program, który z systemu pobiera aktualny czas i datę. Następnie zapisz to jako string w odpowiednim formacie np. DDMMYYYYhhmmss (pobaw się zmianą kolejności). Na koniec string wyświetl na konsoli.
